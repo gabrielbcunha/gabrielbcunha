@@ -1,4 +1,4 @@
-# 💻 Gabriel cunha
+# 💻 Gabriel B Cunha
 
 **`Desenvolvedor de Software`**
 
