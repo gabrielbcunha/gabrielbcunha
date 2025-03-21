@@ -66,7 +66,7 @@ Olá, me chamo Gabriel, tenho 20 anos e sou natural do estado de São Paulo. Atu
 <img 
     align="MySQL" 
     alt="MySQL" 
-    title="Python"
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
