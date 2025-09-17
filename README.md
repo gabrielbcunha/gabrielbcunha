@@ -75,17 +75,4 @@ Olá, me chamo Gabriel, tenho 21 anos e sou natural do estado de São Paulo. Atu
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielbcunha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbcunha&layout=compact&theme=tokyonight)
-
-</p>
