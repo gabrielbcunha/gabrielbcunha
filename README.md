@@ -2,7 +2,20 @@
 
 **`Desenvolvedor de Software`**
 
-Olá, me chamo Gabriel, tenho 21 anos e sou natural do estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Em conjunto aos estudos oferecidos pela faculdade, sigo me profissionalizando por meio da realização de projetos e estudos complementares, minha linguagem principal de estudo é Java e sua utilização com o Framework Spring Boot.    
+## Olá, eu sou o Gabriel
+
+Sou estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot.
+
+Atuo com backend, lógica de programação e Programação Orientada a Objetos, e atualmente desenvolvo projetos acadêmicos e pessoais para consolidar esses conhecimentos.
+
+Tecnologias principais:
+- Java
+- Spring Boot
+- MySQL
+
+Objetivo:
+Atuar como estagiário em desenvolvimento de software, aplicando e evoluindo meus conhecimentos em backend.
+  
 
 ---
 
